@@ -30,13 +30,15 @@
 
 1825年 [非欧几何](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E5%87%A0%E4%BD%95)
 
+1828年 [有机物合成](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%8B%92%E5%B0%BF%E7%B4%A0%E5%90%88%E6%88%90)
+
 1829年 [蒸汽火车](https://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E5%8F%B2%E8%92%82%E8%8A%AC%E7%94%9F)
 
 1831年 [电磁感应](https://zh.wikipedia.org/wiki/%E7%94%B5%E7%A3%81%E6%84%9F%E5%BA%94)
 
 1832年 [群论](https://zh.wikipedia.org/wiki/%E5%9F%83%E7%93%A6%E9%87%8C%E6%96%AF%E7%89%B9%C2%B7%E4%BC%BD%E7%BD%97%E7%93%A6)
 
-1842年 [多普勒效应](https://zh.wikipedia.org/wiki/%E5%A4%9A%E6%99%AE%E5%8B%92%E6%95%88%E5%BA%94)
+1840年 [化肥](https://zh.wikipedia.org/wiki/%E8%82%A5%E6%96%99)
 
 1847年 [能量守恒](https://zh.wikipedia.org/wiki/%E8%83%BD%E9%87%8F%E5%AE%88%E6%81%92%E5%AE%9A%E5%BE%8B)
 
@@ -70,11 +72,13 @@
 
 1903年 [飞机](https://zh.wikipedia.org/wiki/%E5%9B%BA%E5%AE%9A%E7%BF%BC%E9%A3%9B%E6%A9%9F)
 
-1905年 [相对论](https://zh.wikipedia.org/wiki/%E7%9B%B8%E5%AF%B9%E8%AE%BA)
+1905年 [狭义相对论](https://zh.wikipedia.org/wiki/%E7%9B%B8%E5%AF%B9%E8%AE%BA)
 
 1907年 [双盲试验](https://en.wikipedia.org/wiki/Blinded_experiment)
 
 1912年 [维生素](https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%94%9F%E7%B4%A0)
+
+1915年 [广义相对论](https://zh.wikipedia.org/wiki/%E5%BB%A3%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96)
 
 1928年 [青霉素](https://zh.wikipedia.org/wiki/%E9%9D%92%E9%9C%89%E7%B4%A0)
 
@@ -86,6 +90,8 @@
 
 1948年 [信息论](https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E9%A6%99%E5%86%9C)
 
+1954年 [规范场论](https://zh.wikipedia.org/wiki/%E8%A7%84%E8%8C%83%E5%9C%BA%E8%AE%BA)
+
 1957年 [人造卫星](https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AE%E5%B0%BC%E5%85%8B1%E8%99%9F)
 
 1958年 [DNA机制](https://zh.wikipedia.org/wiki/%E8%84%B1%E6%B0%A7%E6%A0%B8%E7%B3%96%E6%A0%B8%E9%85%B8)
@@ -94,13 +100,21 @@
 
 1960年 [科学引文索引 SCI](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E5%BC%95%E6%96%87%E7%B4%A2%E5%BC%95)
 
+1967年 [标准模型](https://zh.wikipedia.org/wiki/%E6%A0%87%E5%87%86%E6%A8%A1%E5%9E%8B)
+
 1967年 [心脏移植](https://zh.wikipedia.org/wiki/%E5%BF%83%E8%84%8F%E7%A7%BB%E6%A4%8D)
 
 1969年 [载人登月](https://zh.wikipedia.org/wiki/%E7%99%BB%E9%99%B8%E6%9C%88%E7%90%83)
 
+1973年 [转基因](https://zh.wikipedia.org/wiki/%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B)
+
 1974年 [TCP/IP](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91)
 
 1977年 [旅行者号](https://zh.wikipedia.org/wiki/%E8%88%AA%E6%B5%B7%E5%AE%B6%E8%A8%88%E7%95%AB)
+
+1977年 [消灭天花](https://zh.wikipedia.org/wiki/%E5%A4%A9%E8%8A%B1)
+
+1978年 [试管婴儿](https://zh.wikipedia.org/wiki/%E9%AB%94%E5%A4%96%E4%BA%BA%E5%B7%A5%E5%8F%97%E7%B2%BE)
 
 1989年 [WWW](https://zh.wikipedia.org/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91)
 
@@ -108,9 +122,11 @@
 
 2001年 [BT](https://zh.wikipedia.org/wiki/BitTorrent_%28%E5%8D%8F%E8%AE%AE%29)
 
+2002年 [几何化猜想](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%E6%88%88%E9%87%8C%C2%B7%E4%BD%A9%E9%9B%B7%E5%B0%94%E6%9B%BC)
+
 2009年 [比特币](https://zh.wikipedia.org/wiki/%E6%AF%94%E7%89%B9%E5%B8%81)
 
-2015年 [引力波](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2_%28%E7%9B%B8%E5%B0%8D%E8%AB%96%29)
+2016年 [引力波](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2_%28%E7%9B%B8%E5%B0%8D%E8%AB%96%29)
 
 ????年 脑移植
 
@@ -119,6 +135,10 @@
 ????年 核聚变
 
 ????年 量子计算机
+
+????年 强AI
+
+????年 P/NP问题
 
 ????年 黎曼定理
 
