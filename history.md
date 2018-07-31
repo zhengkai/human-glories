@@ -138,6 +138,8 @@
 
 1928年 [青霉素](https://zh.wikipedia.org/wiki/%E9%9D%92%E9%9C%89%E7%B4%A0)
 
+1928年 [粒子加速器](https://zh.wikipedia.org/wiki/%E7%B2%92%E5%AD%90%E5%8A%A0%E9%80%9F%E5%99%A8)
+
 1931年 [合成纤维](https://zh.wikipedia.org/wiki/%E5%90%88%E6%88%90%E7%BA%96%E7%B6%AD)
 
 1931年 [哥德尔不完备定理](https://zh.wikipedia.org/wiki/%E5%93%A5%E5%BE%B7%E5%B0%94%E4%B8%8D%E5%AE%8C%E5%A4%87%E5%AE%9A%E7%90%86)
