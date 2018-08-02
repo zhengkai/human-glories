@@ -122,6 +122,8 @@
 
 1907年 [塑料](https://zh.wikipedia.org/wiki/%E5%88%A9%E5%A5%A5%C2%B7%E8%B4%9D%E5%85%8B%E5%85%B0)
 
+1911年 [超导现象](https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%85%8B%C2%B7%E5%8D%A1%E6%9C%AB%E6%9E%97%C2%B7%E6%98%82%E5%85%A7%E6%96%AF)
+
 1912年 [维生素](https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%94%9F%E7%B4%A0)
 
 1913年 [大规模流水线](https://zh.wikipedia.org/wiki/%E7%A6%8F%E7%89%B9%E6%B1%BD%E8%BD%A6)
@@ -214,7 +216,7 @@
 
 ????年 哥德巴赫定理
 
-????年 常温超导
+????年 室温超导
 
 ????年 强AI
 
