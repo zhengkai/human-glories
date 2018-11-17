@@ -10,7 +10,7 @@
 
 1590年 [显微镜](https://zh.wikipedia.org/wiki/%E9%A1%AF%E5%BE%AE%E9%8F%A1)
 
-1602年 [证券交易所](https://zh.wikipedia.org/wiki/%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80)
+1602年 [股票](https://zh.wikipedia.org/wiki/%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80)
 
 1609年 [开普勒定律](https://zh.wikipedia.org/wiki/%E5%BC%80%E6%99%AE%E5%8B%92%E5%AE%9A%E5%BE%8B)
 
@@ -23,6 +23,8 @@
 1663年 [大气压力](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%BE%B7%E5%A0%A1%E5%8D%8A%E7%90%83)
 
 1665年 [细胞](https://zh.wikipedia.org/wiki/%E7%BB%86%E8%83%9E)
+
+1666年 [光谱](https://zh.wikipedia.org/wiki/%E5%85%89%E5%AD%B8%E9%A0%BB%E8%AD%9C)
 
 1687年 [经典力学](https://zh.wikipedia.org/wiki/%E7%89%9B%E9%A1%BF%E8%BF%90%E5%8A%A8%E5%AE%9A%E5%BE%8B) 
 
