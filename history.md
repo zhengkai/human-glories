@@ -2,6 +2,10 @@
 
 1543年 [日心说](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BD%93%E8%BF%90%E8%A1%8C%E8%AE%BA)
 
+1544年 [磁倾角](https://en.wikipedia.org/wiki/Magnetic_dip)
+
+1553年 [肺循环](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%A0%BC%E7%88%BE%C2%B7%E5%A1%9E%E7%88%BE%E9%9F%8B%E7%89%B9)
+
 1590年 [显微镜](https://zh.wikipedia.org/wiki/%E9%A1%AF%E5%BE%AE%E9%8F%A1)
 
 1602年 [证券交易所](https://zh.wikipedia.org/wiki/%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80)
@@ -22,6 +26,8 @@
 
 1694年 [函数](https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B0#%E5%8E%86%E5%8F%B2)
 
+1751年 [百科全书](https://zh.wikipedia.org/wiki/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%EF%BC%8C%E6%88%96%E7%A7%91%E5%AD%A6%E3%80%81%E8%89%BA%E6%9C%AF%E5%92%8C%E5%B7%A5%E8%89%BA%E8%AF%A6%E8%A7%A3%E8%AF%8D%E5%85%B8)
+
 1761年 [经度](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%93%88%E9%87%8C%E6%A3%AE)
 
 1769年 [改良蒸汽机](https://zh.wikipedia.org/wiki/%E8%92%B8%E6%B1%BD%E6%9C%BA)
@@ -29,6 +35,8 @@
 1774年 [氧气](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E6%99%AE%E5%88%A9%E6%96%AF%E7%89%B9%E9%87%8C)
 
 1776年 [国富论](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AF%8C%E8%AB%96)
+
+1783年 [热气球](https://zh.wikipedia.org/wiki/%E5%AD%9F%E6%A0%BC%E8%8F%B2%E5%85%84%E5%BC%9F)
 
 1785年 [库仑定律](https://zh.wikipedia.org/wiki/%E9%9B%BB)
 
@@ -210,7 +218,7 @@
 
 2009年 [比特币](https://zh.wikipedia.org/wiki/%E6%AF%94%E7%89%B9%E5%B8%81)
 
-2016年 [引力波](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2_%28%E7%9B%B8%E5%B0%8D%E8%AB%96%29)
+2016年 [引力波](https://zh.wikipedia.org/wiki/GW150914)
 
 ????年 P/NP问题
 
