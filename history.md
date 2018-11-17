@@ -1,5 +1,7 @@
 公元前300年 [几何原本](https://zh.wikipedia.org/wiki/%E5%87%A0%E4%BD%95%E5%8E%9F%E6%9C%AC)
 
+1522年 [环航地球](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB)
+
 1543年 [日心说](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BD%93%E8%BF%90%E8%A1%8C%E8%AE%BA)
 
 1544年 [磁倾角](https://en.wikipedia.org/wiki/Magnetic_dip)
