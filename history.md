@@ -1,5 +1,7 @@
 公元前300年 [几何原本](https://zh.wikipedia.org/wiki/%E5%87%A0%E4%BD%95%E5%8E%9F%E6%9C%AC)
 
+公元500年 [正弦](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0)
+
 1522年 [环航地球](https://zh.wikipedia.org/wiki/%E6%96%90%E8%BF%AA%E5%8D%97%C2%B7%E9%BA%A5%E5%93%B2%E5%80%AB)
 
 1543年 [日心说](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BD%93%E8%BF%90%E8%A1%8C%E8%AE%BA)
@@ -7,6 +9,8 @@
 1544年 [磁倾角](https://en.wikipedia.org/wiki/Magnetic_dip)
 
 1553年 [肺循环](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%A0%BC%E7%88%BE%C2%B7%E5%A1%9E%E7%88%BE%E9%9F%8B%E7%89%B9)
+
+1572年 [虚数](https://zh.wikipedia.org/wiki/%E6%8B%89%E6%96%90%E5%B0%94%C2%B7%E9%82%A6%E8%B4%9D%E5%88%A9)
 
 1590年 [显微镜](https://zh.wikipedia.org/wiki/%E9%A1%AF%E5%BE%AE%E9%8F%A1)
 
@@ -135,6 +139,8 @@
 1907年 [塑料](https://zh.wikipedia.org/wiki/%E5%88%A9%E5%A5%A5%C2%B7%E8%B4%9D%E5%85%8B%E5%85%B0)
 
 1911年 [超导现象](https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%85%8B%C2%B7%E5%8D%A1%E6%9C%AB%E6%9E%97%C2%B7%E6%98%82%E5%85%A7%E6%96%AF)
+
+1911年 [达到南极点](https://zh.wikipedia.org/wiki/%E7%BD%97%E5%B0%94%E5%BE%B7%C2%B7%E9%98%BF%E8%92%99%E6%A3%AE)
 
 1912年 [维生素](https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%94%9F%E7%B4%A0)
 
