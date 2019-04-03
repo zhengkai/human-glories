@@ -62,6 +62,8 @@
 
 1810年 [罐头](https://zh.wikipedia.org/wiki/%E7%BD%90%E9%A0%AD)
 
+1821年 [无穷小量](https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81%C2%B7%E8%B7%AF%E6%98%93%C2%B7%E6%9F%AF%E8%A5%BF)
+
 1825年 [非欧几何](https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E5%87%A0%E4%BD%95)
 
 1826年 [安培定律](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88-%E9%A6%AC%E9%87%8C%C2%B7%E5%AE%89%E5%9F%B9)
@@ -240,7 +242,7 @@
 
 ????年 星际旅行
 
-????年 核聚变
+????年 可控核聚变
 
 ????年 殖民火星
 
