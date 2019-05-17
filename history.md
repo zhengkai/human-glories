@@ -170,6 +170,8 @@
 
 1931年 [电视广播](https://zh.wikipedia.org/wiki/%E7%94%B5%E8%A7%86)
 
+1932年 [尿素循环](https://zh.wikipedia.org/wiki/%E5%B0%BF%E7%B4%A0%E5%BE%AA%E7%8E%AF)
+
 1945年 [原子弹](https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%AD%90%E5%BC%B9)
 
 1946年 [核磁共振](https://zh.wikipedia.org/wiki/%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF)
