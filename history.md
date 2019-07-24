@@ -70,7 +70,8 @@
 
 1826年 [照片](https://zh.wikipedia.org/wiki/%E6%91%84%E5%BD%B1)
 
-1828年 [有机物合成](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%8B%92%E5%B0%BF%E7%B4%A0%E5%90%88%E6%88%90)
+1828年 [尿素](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%8B%92%E5%B0%BF%E7%B4%A0%E5%90%88%E6%88%90)
+> <sup>第一种以人工合成无机物质而得到的有机化合物。活力论从此被推翻</sup>
 
 1829年 [蒸汽火车](https://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E5%8F%B2%E8%92%82%E8%8A%AC%E7%94%9F)
 
@@ -101,6 +102,8 @@
 1862年 [冰箱](https://zh.wikipedia.org/wiki/%E5%86%B0%E7%AE%B1)
 
 1865年 [遗传学](https://zh.wikipedia.org/wiki/%E9%81%97%E4%BC%A0%E5%AD%A6)
+
+1865年 [阿伏伽德罗常数](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8F%E4%BC%BD%E5%BE%B7%E7%BD%97%E5%B8%B8%E6%95%B0)
 
 1865年 [麦克斯韦方程组](https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B%C2%B7%E9%BA%A6%E5%85%8B%E6%96%AF%E9%9F%A6)
 
@@ -134,7 +137,8 @@
 
 1905年 [狭义相对论](https://zh.wikipedia.org/wiki/%E7%9B%B8%E5%AF%B9%E8%AE%BA)
 
-1906年 [二极管](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%A5%B5%E7%AE%A1)
+1906年 [二极管](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%A5%B5%E7%AE%A1)<br>
+> <sup>世界上第一种半导体器件</sup>
 
 1907年 [双盲试验](https://en.wikipedia.org/wiki/Blinded_experiment)
 
@@ -159,6 +163,7 @@
 1928年 [狄拉克方程](https://zh.wikipedia.org/wiki/%E7%8B%84%E6%8B%89%E5%85%8B%E6%96%B9%E7%A8%8B%E5%BC%8F)
 
 1928年 [青霉素](https://zh.wikipedia.org/wiki/%E9%9D%92%E9%9C%89%E7%B4%A0)
+> <sup>人类发现的第一种抗生素</sup>
 
 1928年 [粒子加速器](https://zh.wikipedia.org/wiki/%E7%B2%92%E5%AD%90%E5%8A%A0%E9%80%9F%E5%99%A8)
 
@@ -171,6 +176,7 @@
 1931年 [电视广播](https://zh.wikipedia.org/wiki/%E7%94%B5%E8%A7%86)
 
 1932年 [尿素循环](https://zh.wikipedia.org/wiki/%E5%B0%BF%E7%B4%A0%E5%BE%AA%E7%8E%AF)
+> <sup>人类发现的第一种代谢循环</sup>
 
 1945年 [原子弹](https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%AD%90%E5%BC%B9)
 
@@ -209,8 +215,10 @@
 1974年 [光盘](https://zh.wikipedia.org/wiki/CD)
 
 1977年 [旅行者号](https://zh.wikipedia.org/wiki/%E8%88%AA%E6%B5%B7%E5%AE%B6%E8%A8%88%E7%95%AB)
+> <sup>飞行了约27年后，于2004年成为首个越过日鞘的人类天体</sup>
 
 1977年 [消灭天花](https://zh.wikipedia.org/wiki/%E5%A4%A9%E8%8A%B1)
+> <sup>首个于世上绝迹的人类传染病</sup>
 
 1978年 [试管婴儿](https://zh.wikipedia.org/wiki/%E9%AB%94%E5%A4%96%E4%BA%BA%E5%B7%A5%E5%8F%97%E7%B2%BE)
 
@@ -251,6 +259,8 @@
 ????年 脑移植
 
 ????年 量子计算机
+
+????年 精细结构常数的由来
 
 ????年 黎曼定理
 
