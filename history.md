@@ -41,6 +41,7 @@
 1769年 [改良蒸汽机](https://zh.wikipedia.org/wiki/%E8%92%B8%E6%B1%BD%E6%9C%BA)
 
 1774年 [氧气](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E6%99%AE%E5%88%A9%E6%96%AF%E7%89%B9%E9%87%8C)
+> <sup>拉瓦锡利用氧气所进行的试验在燃烧和腐蚀的方面打败了当时流行的燃素说</sup>
 
 1776年 [国富论](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AF%8C%E8%AB%96)
 
