@@ -21,6 +21,7 @@
 1623年 [专利权](https://zh.wikipedia.org/wiki/%E4%B8%93%E5%88%A9)
 
 1628年 [血液循环](https://zh.wikipedia.org/wiki/%E5%BF%83%E8%A1%80%E8%BF%90%E5%8A%A8%E8%AE%BA)
+> <sup>《心血运动论》从根本上推翻了统治千年的关于心脏运动和血液运动的经典观点</sup>
 
 1637年 [解析几何](https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95)
 
@@ -48,6 +49,7 @@
 1783年 [热气球](https://zh.wikipedia.org/wiki/%E5%AD%9F%E6%A0%BC%E8%8F%B2%E5%85%84%E5%BC%9F)
 
 1785年 [库仑定律](https://zh.wikipedia.org/wiki/%E9%9B%BB)
+> <sup>电学发展史上的第一个定量规律</sup>
 
 1794年 [色盲](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E9%81%93%E5%B0%94%E9%A1%BF)
 
